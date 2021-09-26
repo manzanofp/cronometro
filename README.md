@@ -1,2 +1,2 @@
 # cronometro
-cronometro simples desenvolvido com javascript html5 e css3
+cronometro desenvolvido com javascript html5 e css3
